@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouponWithoutOCP", "CouponWithoutOCP\CouponWithoutOCP.csproj", "{A918F635-ADF1-4BF3-BD1C-7341AC8D8163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A918F635-ADF1-4BF3-BD1C-7341AC8D8163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A918F635-ADF1-4BF3-BD1C-7341AC8D8163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A918F635-ADF1-4BF3-BD1C-7341AC8D8163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A918F635-ADF1-4BF3-BD1C-7341AC8D8163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80FBDDD2-AF85-4C5C-98A4-3E7D860DBE38}
+	EndGlobalSection
+EndGlobal
